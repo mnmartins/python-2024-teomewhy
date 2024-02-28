@@ -25,4 +25,8 @@ print(10 ** 2)
 print(round(9 ** 0.5, 3))
 
 #para limitar o numero de casas do resultado -> pode-se usar o round
-print(round(3 ** 0.5, 3))
+print(round(3 ** 0.5, 3)) 
+
+
+# %%
+  
